@@ -7,3 +7,6 @@ We're pretending that we are a data analyst for a company building Android and i
 The data files used for this project can be found here:
 * Google Play Store app data from 2018 -> [Direct Download](https://dq-content.s3.amazonaws.com/350/googleplaystore.csv), [Kaggle](https://www.kaggle.com/lava18/google-play-store-apps)
 * Apple Store app data from 2018 -> [Direct Download](https://dq-content.s3.amazonaws.com/350/AppleStore.csv), [Kaggle](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
+
+## Conclusion
+One mobile app that could be profitable for both markets are popular books that have been turned into an app. Since the market is full of libraries, special features could be added to the app (i.e. audio, quizzes, forum, recaps) instead of just the raw version of the book.
