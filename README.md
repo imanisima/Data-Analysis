@@ -1,2 +1,2 @@
-# Data-Architecture
-Guided projects from DataQuest
+# Data-Analysis
+Guided Projects
