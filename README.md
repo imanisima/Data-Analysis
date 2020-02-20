@@ -1,2 +1,2 @@
 # Data-Analysis
-Guided Projects
+Guided Projects used to gain familiarity with Data Analytics
