@@ -1,6 +1,6 @@
 ## Daily Summary Visits
 
-### About
+### Overview
 ---
 In 2009, the White House began publishing records of visitors. Over seven years, almost six million visitors were recorded. The csv file is merely a subset of the data set.
 
@@ -25,7 +25,7 @@ The data has also been cleaned and some columns removed, but the contents are un
 
 ```description```: Optional comments added by the WAVES operator.
 
-### Resources
+### Files
 ---
 The csv file [potus_visitors_2015.csv](https://github.com/Imanisima/Data-Analysis/blob/master/DailySummaryVisits/potus_visitors_2015.csv) [reduced]
 Original csv file [here](https://obamawhitehouse.archives.gov/briefing-room/disclosures/visitor-records) 
