@@ -1,6 +1,6 @@
 ## Hacker News Posts
 
-### About
+### Overview
 ---
 [Hacker News](https://thehackernews.com) is similar to Reddit in that users submit posts that are voted and commented upon. This site is extremely important within the tech world, and helps users stay up to date.
 
@@ -16,6 +16,6 @@ For the purposes of this project, the data has been significantly reduced from 3
 ```author```: The username of the person who submitted the post
 ```created_at```: The date and time at which the post was submitted
 
-### Resources
+### Files
 ---
 The csv file can be found [here](https://www.kaggle.com/hacker-news/hacker-news-posts). 
