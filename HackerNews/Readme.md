@@ -9,11 +9,17 @@ For the purposes of this project, the data has been significantly reduced from 3
 ### Column Descriptions
 ---
 ```id```: Unique identifier of a post.
+
 ```title```: Title of the post.
+
 ```url```: Post URL (if there is one).
+
 ```num_points```: The number of points the post acquired (total number of upvotes - the total number of downvotes).
+
 ```num_comments```: The number of comments that were made on the post.
+
 ```author```: The username of the person who submitted the post
+
 ```created_at```: The date and time at which the post was submitted
 
 ### Files
