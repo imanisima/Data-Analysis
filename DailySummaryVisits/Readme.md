@@ -3,6 +3,8 @@ In 2009, the White House began publishing records of visitors. Over seven years,
 
 The data has also been cleaned and some columns removed, but the contents are untouched.
 
+--------------------------------------------------------------------------------
+
 Below are the columns listed:
 
 ```name```: Name of visitor.
@@ -21,4 +23,5 @@ Below are the columns listed:
 
 ```description```: Optional comments added by the WAVES operator.
 
-Note: The csv file, [potus_visitors_2015.csv](), can be found in this directory.
+Note: The csv file [potus_visitors_2015.csv](https://github.com/Imanisima/Data-Analysis/blob/master/DailySummaryVisits/potus_visitors_2015.csv) can be found in this directory.
+The uneditted file can be found [here](https://obamawhitehouse.archives.gov/briefing-room/disclosures/visitor-records) 
