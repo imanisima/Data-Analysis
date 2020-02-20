@@ -2,7 +2,7 @@
 
 ### Overview
 ---
-[Hacker News](https://thehackernews.com) is similar to Reddit in that users submit posts that are voted and commented upon. This site is extremely important within the tech world, and helps users stay up to date.
+[Hacker News](https://thehackernews.com) is similar to Reddit in that users submit posts that are voted and commented upon. This site is extremely important within the tech world, and helps users stay up to date on current events.
 
 For the purposes of this project, the data has been significantly reduced from 300K rows to 20K by removing posts that have received no comments and then random sampling from the remaining pool.
 
