@@ -1,11 +1,13 @@
 ## Daily Summary Visits
+
+### About
+---
 In 2009, the White House began publishing records of visitors. Over seven years, almost six million visitors were recorded. The csv file is merely a subset of the data set.
 
 The data has also been cleaned and some columns removed, but the contents are untouched.
 
---------------------------------------------------------------------------------
-
-Below are the columns listed:
+### Column Descriptions
+---
 
 ```name```: Name of visitor.
 
@@ -23,5 +25,7 @@ Below are the columns listed:
 
 ```description```: Optional comments added by the WAVES operator.
 
-Note: The csv file [potus_visitors_2015.csv](https://github.com/Imanisima/Data-Analysis/blob/master/DailySummaryVisits/potus_visitors_2015.csv) can be found in this directory.
-The uneditted file can be found [here](https://obamawhitehouse.archives.gov/briefing-room/disclosures/visitor-records) 
+### Resources
+---
+The csv file [potus_visitors_2015.csv](https://github.com/Imanisima/Data-Analysis/blob/master/DailySummaryVisits/potus_visitors_2015.csv) [reduced]
+Original csv file [here](https://obamawhitehouse.archives.gov/briefing-room/disclosures/visitor-records) 
