@@ -35,4 +35,4 @@ At the end of this project, we will know the following:
 
 ### Files
 ---
-The csv file can be found [here](https://www.kaggle.com/hacker-news/hacker-news-posts). 
+The complete csv file can be found [here](https://www.kaggle.com/hacker-news/hacker-news-posts). 
