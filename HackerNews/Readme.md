@@ -6,6 +6,16 @@
 
 For the purposes of this project, the data has been significantly reduced from 300K rows to 20K by removing posts that have received no comments and then random sampling from the remaining pool.
 
+### Problem
+---
+We are specifically interested in posts that are tagged ```Ask HN``` and ```Show HN```.
+```Ask HN```: Users post their questions to the HN News community.
+```Show HN```: Users post projects, a product, or something of interest.
+
+At the end of this project, we will know the following:
+*Do ```Ask HN``` or ```Show HN``` receive more comments on average?
+*Do posts created at a certain time receive more comments on average?
+
 ### Column Descriptions
 ---
 ```id```: Unique identifier of a post.
