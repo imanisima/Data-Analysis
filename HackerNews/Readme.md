@@ -13,8 +13,9 @@ We are specifically interested in posts that are tagged ```Ask HN``` and ```Show
 ```Show HN```: Users post projects, a product, or something of interest.
 
 At the end of this project, we will know the following:
-*Do ```Ask HN``` or ```Show HN``` receive more comments on average?
-*Do posts created at a certain time receive more comments on average?
+* Do ```Ask HN``` or ```Show HN``` receive more comments on average?
+
+* Do posts created at a certain time receive more comments on average?
 
 ### Column Descriptions
 ---
